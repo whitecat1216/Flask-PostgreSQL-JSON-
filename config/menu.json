@@ -1,0 +1,4 @@
+[
+  { "id": 1, "name": "社員一覧", "path": "/employees" },
+  { "id": 2, "name": "部署一覧", "path": "/departments" }
+]
