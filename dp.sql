@@ -20,3 +20,7 @@ INSERT INTO employees (name, department) VALUES
 ('田中 太郎', '営業'),
 ('佐藤 花子', '開発'),
 ('鈴木 次郎', '総務');
+--追加
+ALTER TABLE employees ADD COLUMN skills TEXT;
+UPDATE employees SET skills = 'Java, Spring Boot' WHERE id = 1;
+UPDATE employees SET skills = 'Python, Flask' WHERE id = 2;

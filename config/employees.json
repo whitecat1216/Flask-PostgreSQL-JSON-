@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "田中 太郎",
+    "department": "営業",
+    "skills": ["営業戦略", "プレゼン", "交渉"]
+  },
+  {
+    "id": 2,
+    "name": "佐藤 花子",
+    "department": "開発",
+    "skills": ["Java", "Spring Boot", "PostgreSQL"]
+  },
+  {
+    "id": 3,
+    "name": "鈴木 次郎",
+    "department": "総務",
+    "skills": ["総務業務", "勤怠管理"]
+  }
+]

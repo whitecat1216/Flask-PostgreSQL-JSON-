@@ -1,0 +1,7 @@
+{
+  "source": "api/departments",
+  "columns": [
+    { "field": "id", "label": "ID", "visible": true },
+    { "field": "name", "label": "部署名", "visible": true }
+  ]
+}
