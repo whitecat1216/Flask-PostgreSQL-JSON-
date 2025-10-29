@@ -1,0 +1,7 @@
+{
+  "title": "社員一覧",
+  "parts": [
+    { "type": "search", "path": "ui/employees/search.json" },
+    { "type": "list", "path": "ui/employees/list.json" }
+  ]
+}

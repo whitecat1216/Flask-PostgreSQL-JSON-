@@ -1,0 +1,10 @@
+{
+  "filters": [
+    { "field": "name", "label": "氏名", "type": "text", "placeholder": "名前で検索" },
+    { "field": "department", "label": "部署", "type": "select", "options": ["営業", "開発", "総務"] }
+  ],
+  "actions": [
+    { "label": "検索", "type": "submit", "class": "btn btn-primary" },
+    { "label": "クリア", "type": "reset", "class": "btn btn-secondary" }
+  ]
+}

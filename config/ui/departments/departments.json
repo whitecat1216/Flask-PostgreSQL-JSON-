@@ -1,0 +1,6 @@
+{
+  "title": "部署一覧",
+  "parts": [
+    { "type": "list", "path": "ui/departments/list.json" }
+  ]
+}

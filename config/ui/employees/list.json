@@ -1,0 +1,8 @@
+{
+  "source": "/api/employees",
+  "columns": [
+    {"field": "id", "label": "ID", "visible": true},
+    {"field": "name", "label": "名前", "visible": true},
+    {"field": "department", "label": "部署", "visible": true}
+  ]
+}
